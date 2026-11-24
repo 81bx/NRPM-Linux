@@ -10,9 +10,9 @@
 
 👌Go with autoinstall
 
-You can run autoinstall script like 'sh autoinstall.sh' for out-of-the-box ready script.
+You can run autoinstall script like `autoinstall.sh` for out-of-the-box ready script.
 
-Follow these steps on chroot (this will apply manual install too):
+Follow these steps on chroot:
 
 `pacman -Sy --needed git`
 
