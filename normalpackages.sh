@@ -17,7 +17,7 @@ cat<<"EOF"
 EOF
 
 
-systemctl enable sddm
+sudo systemctl enable sddm
 
 
 cat<<"EOF"
@@ -27,4 +27,4 @@ cat<<"EOF"
 EOF
 
 
-systemctl enable NetworkManager
+sudo systemctl enable NetworkManager
