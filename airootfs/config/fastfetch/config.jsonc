@@ -12,6 +12,8 @@
     "initsystem",
     "uptime",
     "shell",
+    "de",
+    "wm",
     "terminal",
     "cpu",
     "gpu",
