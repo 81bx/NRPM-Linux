@@ -2,7 +2,7 @@
 
 cat<<"EOF"
 
-Do you have a mulitlib enabled in /etc/pacman.conf and ran 'pacman -Syu' before installing gaming packages?
+Do you have a mulitlib enabled in '/etc/pacman.conf' and ran 'pacman -Syu' before installing gaming packages?
 
 + Installing gaming packages
 
