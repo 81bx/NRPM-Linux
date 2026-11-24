@@ -1,4 +1,4 @@
-NAME="NRPM Linux"
+NAME="NRPM Linux (hinnkaDistro)"
 PRETTY_NAME="NRPM Linux"
 ID=nrpmlinux
 ID_LIKE=hinnka arch
