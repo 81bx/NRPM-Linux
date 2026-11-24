@@ -8,7 +8,7 @@
 
 ----------------------
 
-# 👌Go with autoinstall
+# 👌Go with autoinstall (for new users)
 
 You can run autoinstall script like `autoinstall.sh` for out-of-the-box ready script.
 
