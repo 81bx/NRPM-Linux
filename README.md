@@ -92,7 +92,7 @@ Then type these (on your home folder):
 
 ----------------------
 
-🎮Gaming packages install (optional)
+# 🎮Gaming packages install (optional)
 
 NRPM Linux is also made for gaming and it has a gaming packages script.
 
@@ -110,7 +110,7 @@ The gaming packages script has Steam, Wine, Vulkan and NVIDIA drivers
 
 ----------------------
 
-💫AUR install (optional)
+# 💫AUR install (optional)
 
 If you want to install AUR, type this:
 
