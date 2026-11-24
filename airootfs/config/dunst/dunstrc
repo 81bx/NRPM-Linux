@@ -1,0 +1,18 @@
+[global]
+    font = Monospace 8
+    width = 600
+    height = 300
+    origin = bottom-right
+    offset = 7x7
+    frame_width = 5
+    frame_color = "#e68aff"
+    separator_height = 2
+    padding = 8
+    horizontal_padding = 8
+    sort = yes
+    idle_threshold = 120
+
+[urgency_normal]
+    background = "#a91ecf"
+    foreground = ""
+    timeout = 15
