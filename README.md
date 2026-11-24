@@ -90,6 +90,6 @@ Then type these (on your home folder):
 
 🚀Once done, type 'exit' to logout, and type 'exit' again to leave chroot.
 
-ℹ️You have finshed installing hinnkaDistro! Type 'reboot' to restart the system.
+ℹ️You have finshed installing NRPM Linux! Type 'reboot' to restart the system and enjoy using NRPM Desktop!
 
 ----------------------
