@@ -6,13 +6,13 @@ cat<<"EOF"
 
 EOF
 
-sudo pacman -Sy --needed --noconfirm nano pipewire xorg-server xorg-xinit pavucontrol i3-wm i3status dmenu kitty thunar feh dunst gvfs udisks2 thunar-volman sddm network-manager-applet networkmanager polkit-gnome mousepad base-devel git firefox flatpak fastfetch gimp libreoffice signal-desktop vlc
+sudo pacman -Sy --needed --noconfirm nano pipewire pavucontrol sway swaybg kitty xdg-desktop-portal-wlr xwayland xfce4-panel dunst thunar gvfs udisks2 thunar-volman sddm network-manager-applet networkmanager mousepad base-devel git firefox flatpak fastfetch gimp libreoffice signal-desktop vlc
 
-cd ~/hinnkaDistro
+cd ~/NRPMLinux
 
 sh yayaur.sh
 
-cd ~/hinnkaDistro/airootfs
+cd ~/NRPMLinux/airootfs
 
 cat<<"EOF"
 
@@ -26,24 +26,21 @@ sudo cp -r usr /
 
 mkdir ~/.config
 
-cd ~/hinnkaDistro/airootfs/config
+cd ~/NRPMLinux/airootfs/config
 
 cat<<"EOF"
 
 + sudo cp -r fastfetch /
 + sudo cp -r i3 /
++ sudo cp -r dunst /
++ sudo cp -r xfce4 /
 
 EOF
 
 cp -r fastfetch ~/.config
 cp -r i3 ~/.config
-
-cat<<"EOF"
-
-+ sudo cp -r fastfetch /
-+ sudo cp -r i3 /
-
-EOF
+cp -r dunst ~/.config
+cp -r xfce4 ~/.config
 
 cat<<"EOF"
 
