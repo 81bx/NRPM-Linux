@@ -6,7 +6,7 @@ cat<<"EOF"
 
 EOF
 
-sudo pacman -Sy --needed --noconfirm nano base-devel git firefox flatpak fastfetch pavucontrol pipewire i3-wm sway swaybg kitty xdg-desktop-portal-wlr xfce4-panel dunst thunar dunst gvfs udisks2 thunar-volman sddm network-manager-applet networkmanager mousepad
+sudo pacman -Sy --needed --noconfirm nano base-devel git librewolf fastfetch pavucontrol pipewire i3-wm sway swaybg kitty xdg-desktop-portal-wlr xfce4-panel dunst thunar dunst gvfs udisks2 thunar-volman sddm network-manager-applet networkmanager mousepad
 
 
 cat<<"EOF"
