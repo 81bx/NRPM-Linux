@@ -6,7 +6,7 @@
 
 ℹ️This is for fresh installed Arch Linux system and must be a chroot
 
-------
+----------------------
 
 👌Go with autoinstall
 
@@ -31,6 +31,7 @@ Follow these steps on chroot:
 [Source (autoinstall.sh)](https://github.com/81bx/NRPM-Linux/blob/main/autoinstall.sh)
 
 ----------------------
+
 👌Go with without autoinstall.sh
 
 You can install it manually.
@@ -90,6 +91,21 @@ Then type these (on your home folder):
 `sudo cp -r xfce4 ~/.config`
 
 ----------------------
+
+💫AUR install (optional)
+
+If you want to install AUR, type this:
+
+`su - [USERNAME]`
+
+ℹ️Replace `[USERNAME]` to put your user you just created.
+
+`cd NRPM-Linux`
+
+`sh yayaur.sh`
+
+----------------------
+
 ✅Finsh the install
 
 🚀Once done, type 'exit' to logout, and type 'exit' again to leave chroot.
