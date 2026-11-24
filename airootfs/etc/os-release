@@ -1,6 +1,6 @@
-NAME="hinnkaDistro Linux"
-PRETTY_NAME="hinnkaDistro"
-ID=hinnka
-ID_LIKE=arch
+NAME="NRPM Linux"
+PRETTY_NAME="NRPM Linux"
+ID=nrpmlinux
+ID_LIKE=hinnka arch
 BUILD_ID=rolling
 LOGO=/usr/local/acsii.txt
