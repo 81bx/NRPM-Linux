@@ -16,8 +16,8 @@ cd ~/NRPMLinux/airootfs
 
 cat<<"EOF"
 
-+ sudo cp -r etc /
-+ sudo cp -r usr /
++ cp -r etc /
++ cp -r usr /
 
 EOF
 
@@ -30,10 +30,10 @@ cd ~/NRPMLinux/airootfs/config
 
 cat<<"EOF"
 
-+ sudo cp -r fastfetch /
-+ sudo cp -r i3 /
-+ sudo cp -r dunst /
-+ sudo cp -r xfce4 /
++ cp -r fastfetch /
++ cp -r i3 /
++ cp -r dunst /
++ cp -r xfce4 /
 
 EOF
 
@@ -49,7 +49,7 @@ cat<<"EOF"
 EOF
 
 
-systemctl enable sddm
+sudo systemctl enable sddm
 
 
 cat<<"EOF"
@@ -59,4 +59,4 @@ cat<<"EOF"
 EOF
 
 
-systemctl enable NetworkManager
+sudo systemctl enable NetworkManager
