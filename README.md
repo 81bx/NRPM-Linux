@@ -92,6 +92,24 @@ Then type these (on your home folder):
 
 ----------------------
 
+🎮Gaming packages install (optional)
+
+NRPM Linux is also made for gaming and it has a gaming packages script.
+
+The gaming packages script has Steam, Wine, Vulkan and NVIDIA drivers
+
+ℹ️You must have `mulitlib` enabled in `/etc/pacman.conf`, then enter `pacman -Syu` and run the script
+
+`su - [USERNAME]`
+
+ℹ️Replace `[USERNAME]` to put your user you just created.
+
+`cd NRPM-Linux`
+
+`sh yayaur.sh`
+
+----------------------
+
 💫AUR install (optional)
 
 If you want to install AUR, type this:
