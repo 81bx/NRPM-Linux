@@ -46,13 +46,9 @@ If installed, type `git clone https://github.com/81bx/NRPM-Linux`
 
 If cloned, type `cd NRPM-Linux`, here are these sctipts:
 
-[Source (gamingpackages.sh)](https://github.com/81bx/NRPM-Linux/blob/main/gamingpackages.sh)
-
 [Source (litepackages.sh)](https://github.com/81bx/NRPM-Linux/blob/main/litepackages.sh)
 
 [Source (normalpackages.sh)](https://github.com/81bx/NRPM-Linux/blob/main/normalpackages.sh)
-
-[Source (yayaur.sh)](https://github.com/81bx/NRPM-Linux/blob/main/yayaur.sh)
 
 If you want normal packages, type this:
 
@@ -112,6 +108,8 @@ To install it:
 
 `sh gamingpackages.sh`
 
+[Source (gamingpackages.sh)](https://github.com/81bx/NRPM-Linux/blob/main/gamingpackages.sh)
+
 ----------------------
 
 # 💫AUR install (optional)
@@ -125,6 +123,8 @@ If you want to install AUR, type this:
 `cd NRPM-Linux`
 
 `sh yayaur.sh`
+
+[Source (yayaur.sh)](https://github.com/81bx/NRPM-Linux/blob/main/yayaur.sh)
 
 ----------------------
 
