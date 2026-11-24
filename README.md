@@ -6,7 +6,7 @@
 
 ℹ️This is for fresh installed Arch Linux system and must be a chroot
 
-ℹ️You now can switch from existing Arch LInux to NRPM Linux
+ℹ️You now can switch from existing Arch LInux to NRPM Linux without even reinstalling Arch Linux just for this
 
 ----------------------
 
