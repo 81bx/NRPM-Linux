@@ -106,7 +106,7 @@ If you want to install AUR, type this:
 
 ----------------------
 
-### ✅Finsh the install
+# ✅Finish the install
 
 🚀Once done, type 'exit' to logout, and type 'exit' again to leave chroot.
 
