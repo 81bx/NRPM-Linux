@@ -6,7 +6,7 @@ cat<<"EOF"
 
 EOF
 
-sudo pacman -Sy --needed --noconfirm nano pipewire pavucontrol sway swaybg kitty xdg-desktop-portal-wlr xfce4-panel dunst thunar gvfs udisks2 thunar-volman sddm network-manager-applet networkmanager mousepad base-devel git firefox flatpak fastfetch gimp libreoffice signal-desktop vlc
+sudo pacman -Sy --needed --noconfirm nano pipewire pavucontrol sway swaybg kitty xdg-desktop-portal-wlr xfce4-panel dunst thunar gvfs udisks2 thunar-volman sddm network-manager-applet networkmanager mousepad base-devel git firefox flatpak fastfetch gimp signal-desktop vlc
 
 cd ~/NRPMLinux
 
