@@ -37,10 +37,10 @@ cat<<"EOF"
 
 EOF
 
-sudo cp -r fastfetch ~/.config
-sudo cp -r i3 ~/.config
-sudo cp -r dunst ~/.config
-sudo cp -r xfce4 ~/.config
+cp -r fastfetch ~/.config
+cp -r i3 ~/.config
+cp -r dunst ~/.config
+cp -r xfce4 ~/.config
 
 cat<<"EOF"
 
