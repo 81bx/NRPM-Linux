@@ -2,13 +2,13 @@
 
 ## NRPM Linux (hinnkaDistro) is a minimal and lightweight linux distribution based with Arch Linux.
 
-👌Getting started for the installation
+### 👌Getting started for the installation
 
 ℹ️This is for fresh installed Arch Linux system and must be a chroot
 
 ----------------------
 
-👌Go with autoinstall
+# 👌Go with autoinstall
 
 You can run autoinstall script like `autoinstall.sh` for out-of-the-box ready script.
 
@@ -32,7 +32,7 @@ Follow these steps on chroot:
 
 ----------------------
 
-👌Go with without autoinstall.sh
+# 👌Go with without autoinstall.sh
 
 You can install it manually.
 
@@ -106,7 +106,7 @@ If you want to install AUR, type this:
 
 ----------------------
 
-✅Finsh the install
+### ✅Finsh the install
 
 🚀Once done, type 'exit' to logout, and type 'exit' again to leave chroot.
 
