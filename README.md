@@ -1,13 +1,13 @@
-Welcome to NRPM Linux
+### Welcome to NRPM Linux
 
-hinnkaDistro is a minimal and lightweight linux distribution based with Arch Linux.
+# NRPM Linux (hinnkaDistro) is a minimal and lightweight linux distribution based with Arch Linux.
 
-----------------------
 👌Getting started
 
 ℹ️This is for fresh installed Arch Linux system and must be a chroot
 
-----------------------
+------
+
 👌Go with autoinstall
 
 You can run autoinstall script like 'sh autoinstall.sh' for out-of-the-box ready script.
@@ -18,7 +18,7 @@ Follow these steps on chroot (this will apply manual install too):
 
 `su - [USERNAME]`
 
-ℹ️Replace `"[USERNAME]"` to put your user you just created.
+ℹ️Replace `[USERNAME]` to put your user you just created.
 
 ℹ️Also the normal autoinstall script has i3 Window Manager by default
 
@@ -65,7 +65,7 @@ Next, type 'cd airootfs' and do this (as root):
 
 And then, type `su - [USERNAME]`
 
-ℹ️Replace `"[USERNAME]"` to put your user you just created.
+ℹ️Replace `[USERNAME]` to put your user you just created.
 
 Once you in as a user, you must clone `NRPM-Linux` again:
 
