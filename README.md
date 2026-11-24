@@ -42,6 +42,7 @@ You can install it manually.
 If installed, type `git clone https://github.com/81bx/NRPM-Linux`
 
 If cloned, type `cd NRPM-Linux`, here are these sctipts:
+
 [Source (gamingpackages.sh)](https://github.com/81bx/NRPM-Linux/blob/main/gamingpackages.sh)
 
 [Source (litepackages.sh)](https://github.com/81bx/NRPM-Linux/blob/main/litepackages.sh)
