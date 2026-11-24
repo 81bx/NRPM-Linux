@@ -28,7 +28,7 @@ Follow these steps on chroot:
 
 `sh autoinstall.sh`
 
-[Source (autoinstall.sh)](https://github.com/81bx/NRPM-Linux
+[Source (autoinstall.sh)](https://github.com/81bx/NRPM-Linux)
 
 ----------------------
 👌Go with without autoinstall.sh
