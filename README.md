@@ -1,6 +1,6 @@
-### Welcome to NRPM Linux
+## Welcome to NRPM Linux
 
-# NRPM Linux (hinnkaDistro) is a minimal and lightweight linux distribution based with Arch Linux.
+## NRPM Linux (hinnkaDistro) is a minimal and lightweight linux distribution based with Arch Linux.
 
 👌Getting started
 
