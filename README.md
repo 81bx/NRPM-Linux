@@ -94,11 +94,13 @@ Then type these (on your home folder):
 
 # 🎮Gaming packages install (optional)
 
-NRPM Linux is also made for gaming and it has a gaming packages script.
+NRPM Linux is also made for gaming and it has a [gaming packages script](https://github.com/81bx/NRPM-Linux/blob/main/gamingpackages.sh).
 
-The gaming packages script has Steam, Wine, Vulkan and NVIDIA drivers
+The gaming packages script has **Steam, Wine, Vulkan and NVIDIA drivers**.
 
-ℹ️You must have `mulitlib` enabled in `/etc/pacman.conf`, then enter `pacman -Syu` and run the script
+ℹ️You must have `mulitlib` enabled in `/etc/pacman.conf`, then enter `pacman -Syu` and run the script because NRPM Linux doesn't have pre-configed `pacman.conf` yet.
+
+To install it:
 
 `su - [USERNAME]`
 
@@ -106,7 +108,7 @@ The gaming packages script has Steam, Wine, Vulkan and NVIDIA drivers
 
 `cd NRPM-Linux`
 
-`sh yayaur.sh`
+`sh gamingpackages.sh`
 
 ----------------------
 
