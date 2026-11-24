@@ -39,7 +39,7 @@ You can install it manually.
 
 `pacman -Sy --needed git`
 
-If installed, type `git clone https://github.com/81bx/hinnkaDistro`
+If installed, type `git clone https://github.com/81bx/NRPM-Linux`
 
 If cloned, type `cd NRPM-Linux`, here are these sctipts:
 [Source (gamingpackages.sh)](https://github.com/81bx/NRPM-Linux/blob/main/gamingpackages.sh)
