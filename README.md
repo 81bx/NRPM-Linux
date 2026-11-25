@@ -28,7 +28,7 @@ Follow these steps on chroot:
 
 `sh autoinstall.sh`
 
-ℹ️Or you can run auutoinstall without AUR installing
+ℹ️Or you can run autoinstall without AUR installing
 
 `sh autoinstall-noaur.sh`
 
