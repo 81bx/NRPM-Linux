@@ -2,7 +2,9 @@
 
 cat<<"EOF"
 
-+ See me what I can do!
+See me what I can do!
+
++ Upgrading the system
 
 EOF
 
