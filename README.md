@@ -22,14 +22,17 @@ Follow these steps on chroot:
 
 ℹ️Replace `[USERNAME]` to put your user you just created.
 
-ℹ️Also the normal autoinstall script has i3 Window Manager by default
-
 `git clone https://github.com/81bx/NRPM-Linux`
 
 `cd NRPM-Linux`
 
 `sh autoinstall.sh`
 
+ℹ️Or you can run auutoinstall without AUR installing
+
+`sh autoinstall-noaur.sh`
+
+[Source (autoinstall-noaur.sh)](https://github.com/81bx/NRPM-Linux/blob/main/autoinstall-noaur.sh)
 [Source (autoinstall.sh)](https://github.com/81bx/NRPM-Linux/blob/main/autoinstall.sh)
 
 ----------------------
