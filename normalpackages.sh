@@ -2,6 +2,16 @@
 
 cat<<"EOF"
 
+See me what I can do!
+
++ Upgrading the system
+
+EOF
+
+sudo pacman -Syuu
+
+cat<<"EOF"
+
 + pacman -Sy Installing normal/default packages
 
 EOF
