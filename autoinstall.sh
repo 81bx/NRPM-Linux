@@ -1,13 +1,5 @@
 #!root
 
-cat<<"EOF"
-
-+ Installing all packages
-
-EOF
-
-sudo pacman -Sy --needed --noconfirm blueman bluez dex xorg nano pipewire pavucontrol i3-wm sway swaybg kitty xdg-desktop-portal-wlr xfce4-panel dunst thunar gvfs udisks2 thunar-volman sddm network-manager-applet networkmanager mousepad base-devel git librewolf flatpak fastfetch gimp signal-desktop vlc
-
 cd ~/NRPM-Linux
 
 sh yayaur.sh
@@ -44,11 +36,32 @@ cp -r xfce4 ~/.config
 
 cat<<"EOF"
 
+See me what I can do!
+
++ Upgrading the system
+
+EOF
+
+sudo pacman -Syuu
+
+
+cat<<"EOF"
+
++ Installing all packages
+
+EOF
+
+sudo pacman -Sy --needed --noconfirm blueman bluez dex xorg nano pipewire pavucontrol i3-wm sway swaybg kitty xdg-desktop-portal-wlr xfce4-panel dunst thunar gvfs udisks2 thunar-volman sddm network-manager-applet networkmanager mousepad base-devel git librewolf flatpak fastfetch gimp signal-desktop vlc
+
+cat<<"EOF"
+
 + systemctl enable bluetooth
 
 EOF
 
+
 sudo systemctl enable bluetooth
+
 
 cat<<"EOF"
 
@@ -56,7 +69,9 @@ cat<<"EOF"
 
 EOF
 
+
 sudo systemctl enable sddm
+
 
 cat<<"EOF"
 
