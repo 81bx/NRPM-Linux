@@ -96,7 +96,7 @@ NRPM Linux is also made for gaming and it has a gaming packages script.
 
 The gaming packages script has **Steam, Wine, Vulkan and NVIDIA drivers**.
 
-ℹ️You must have `mulitlib` enabled in `/etc/pacman.conf`, then enter `pacman -Syu` and run the script because NRPM Linux doesn't have pre-configed `pacman.conf` yet.
+ℹ️NRPM Linux has now own /etc/pacman.conf with muiltlib enabled by default.
 
 To install it:
 
