@@ -1,9 +1,5 @@
 #!root
 
-cd ~/NRPM-Linux
-
-sh yayaur.sh
-
 cd ~/NRPM-Linux/airootfs
 
 cat<<"EOF"
@@ -78,6 +74,8 @@ cat<<"EOF"
 + systemctl enable NetworkManager
 
 EOF
+
+sh yayaur.sh
 
 
 sudo systemctl enable NetworkManager
