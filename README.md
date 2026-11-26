@@ -36,11 +36,16 @@ Follow these steps on chroot:
 
 `sh autoinstall-no-nvidia.sh`
 
-ℹ️For non-NVIDIA computers (without AUR:
+ℹ️For non-NVIDIA computers (without AUR):
 
 `sh autoinstall-no-nvidia-and-aur.sh`
 
+[Source (autoinstall-no-nvidia-and-aur.sh)](https://github.com/81bx/NRPM-Linux/blob/main/autoinstall-no-nvidia-and-aur.sh)
+
+[Source (autoinstall-no-nvidia.sh)](https://github.com/81bx/NRPM-Linux/blob/main/autoinstall-no-nvidia.sh)
+
 [Source (autoinstall-noaur.sh)](https://github.com/81bx/NRPM-Linux/blob/main/autoinstall-noaur.sh)
+
 [Source (autoinstall.sh)](https://github.com/81bx/NRPM-Linux/blob/main/autoinstall.sh)
 
 ----------------------
@@ -119,7 +124,13 @@ To install it:
 
 `sh gamingpackages.sh`
 
+ℹ️For non-NVIDIA computers:
+
+`sh gamingpackages-no-nvidia.sh`
+
 [Source (gamingpackages.sh)](https://github.com/81bx/NRPM-Linux/blob/main/gamingpackages.sh)
+
+[Source (gamingpackages-no-nvidia.sh)](https://github.com/81bx/NRPM-Linux/blob/main/gamingpackages-no-nvidia.sh)
 
 ----------------------
 
