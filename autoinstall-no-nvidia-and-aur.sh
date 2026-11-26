@@ -61,3 +61,9 @@ cat<<"EOF"
 EOF
 
 sudo systemctl enable NetworkManager
+
+cat<<"EOF"
++ mkinitcpio -P
+EOF
+
+sudo mkinitcpio -P
