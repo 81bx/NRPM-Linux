@@ -35,7 +35,7 @@ EOF
 sudo pacman -Syuu
 
 cat<<"EOF"
-+ Installing all packages
++ Installing all packages without NVIDIA drivers
 EOF
 
 sudo pacman -Sy --needed --noconfirm steam wine wine-gecko wine-mono winetricks mesa vulkan-intel vulkan-radeon vulkan-driver nvidia-open-dkms egl-wayland blueman bluez dex xorg nano pipewire pavucontrol i3-wm sway swaybg kitty xdg-desktop-portal-wlr xfce4-panel dunst thunar gvfs udisks2 thunar-volman sddm network-manager-applet networkmanager mousepad base-devel git librewolf flatpak fastfetch gimp signal-desktop vlc
