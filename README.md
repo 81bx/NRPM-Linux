@@ -32,6 +32,14 @@ Follow these steps on chroot:
 
 `sh autoinstall-noaur.sh`
 
+ℹ️For non-NVIDIA computers:
+
+`sh autoinstall-no-nvidia.sh`
+
+ℹ️For non-NVIDIA computers (without AUR:
+
+`sh autoinstall-no-nvidia-and-aur.sh`
+
 [Source (autoinstall-noaur.sh)](https://github.com/81bx/NRPM-Linux/blob/main/autoinstall-noaur.sh)
 [Source (autoinstall.sh)](https://github.com/81bx/NRPM-Linux/blob/main/autoinstall.sh)
 
