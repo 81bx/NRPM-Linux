@@ -12,7 +12,7 @@ cat<<"EOF"
 + pacman -Sy Installing normal/default packages
 EOF
 
-sudo pacman -Sy --needed --noconfirm dex xorg nano distrobox blueman bluez base-devel git librewolf flatpak fastfetch libreoffice gimp signal-desktop vlc pavucontrol pipewire i3-wm sway swaybg kitty xdg-desktop-portal-wlr xfce4-panel dunst thunar dunst gvfs udisks2 thunar-volman sddm network-manager-applet networkmanager mousepad
+sudo pacman -Sy --needed --noconfirm waybar dex xorg nano distrobox blueman bluez base-devel git librewolf flatpak fastfetch libreoffice gimp signal-desktop vlc pavucontrol pipewire i3-wm sway swaybg kitty xdg-desktop-portal-wlr xfce4-panel dunst thunar dunst gvfs udisks2 thunar-volman sddm network-manager-applet networkmanager mousepad
 
 cat<<"EOF"
 + systemctl enable bluetooth
