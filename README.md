@@ -92,17 +92,19 @@ Once you in as a user, you must clone `NRPM-Linux` again:
 
 Then type these (on your home folder):
 
-`sudo mkdir ~/.config`
+`mkdir ~/.config`
 
 `cd ~/NRPM-Linux/airootfs/config/`
 
-`sudo cp -r dunst ~/.config`
+`cp -r dunst ~/.config`
 
-`sudo cp -r fastfetch ~/.config`
+`cp -r fastfetch ~/.config`
 
-`sudo cp -r i3 ~/.config`
+`cp -r i3 ~/.config`
 
-`sudo cp -r xfce4 ~/.config`
+`cp -r waybar ~/.config`
+
+`cp -r xfce4 ~/.config`
 
 ----------------------
 
