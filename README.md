@@ -40,6 +40,12 @@ Follow these steps on chroot:
 
 `sh autoinstall-no-nvidia-and-aur.sh`
 
+ℹ️If you don't want gaming and other packages:
+
+`sh autoinstall-without-gaming-and-other.sh`
+
+[Source (autoinstall-without-gaming-and-other.sh)](https://github.com/81bx/NRPM-Linux/blob/main/autoinstall-without-gaming-and-other.sh)
+
 [Source (autoinstall-no-nvidia-and-aur.sh)](https://github.com/81bx/NRPM-Linux/blob/main/autoinstall-no-nvidia-and-aur.sh)
 
 [Source (autoinstall-no-nvidia.sh)](https://github.com/81bx/NRPM-Linux/blob/main/autoinstall-no-nvidia.sh)
