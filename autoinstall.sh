@@ -15,15 +15,13 @@ mkdir ~/.config
 cd ~/NRPM-Linux/airootfs/config
 
 cat<<"EOF"
-+ cp -r fastfetch /
-+ cp -r i3 /
-+ cp -r dunst /
-+ cp -r xfce4 /
+Copying every configs
 EOF
 
 cp -r fastfetch ~/.config
 cp -r i3 ~/.config
 cp -r dunst ~/.config
+cp -r waybar ~/.config
 cp -r xfce4 ~/.config
 
 cat<<"EOF"
