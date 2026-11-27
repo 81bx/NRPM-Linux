@@ -40,7 +40,7 @@ Follow these steps on chroot:
 
 `sh autoinstall-no-nvidia-and-aur.sh`
 
-ℹ️If you don't want gaming and other packages:
+ℹ️If you don't want gaming and other packages for using for normal (if you have a non-NVIDIA computers):
 
 `sh autoinstall-without-gaming-and-other.sh`
 
