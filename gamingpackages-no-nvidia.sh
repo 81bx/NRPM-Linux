@@ -12,7 +12,7 @@ cat<<"EOF"
 + Installing gaming packages without NVIDIA drivers
 EOF
 
-sudo pacman -Sy --needed --noconfirm steam wine wine-gecko wine-mono winetricks mesa vulkan-intel vulkan-radeon vulkan-driver egl-wayland
+sudo pacman -Sy --needed --noconfirm prismlauncher steam wine wine-gecko wine-mono winetricks mesa vulkan-intel vulkan-radeon vulkan-driver egl-wayland
 
 cat<<"EOF"
 + mkinitcpio -P
