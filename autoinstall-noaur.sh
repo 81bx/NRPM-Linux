@@ -38,7 +38,7 @@ cat<<"EOF"
 + Installing all packages without AUR
 EOF
 
-sudo pacman -Sy --needed --noconfirm steam wine wine-gecko wine-mono winetricks mesa vulkan-intel vulkan-radeon vulkan-driver nvidia-open-dkms nvidia-utils lib32-nvidia-utils nvidia-settings opencl-nvidia lib32-opencl-nvidia egl-wayland blueman bluez dex xorg nano pipewire pavucontrol i3-wm sway swaybg kitty xdg-desktop-portal-wlr xfce4-panel dunst thunar gvfs udisks2 thunar-volman sddm network-manager-applet networkmanager mousepad base-devel git librewolf flatpak fastfetch gimp signal-desktop vlc
+sudo pacman -Sy --needed --noconfirm prismlauncher steam wine wine-gecko wine-mono winetricks mesa vulkan-intel vulkan-radeon vulkan-driver nvidia-open-dkms nvidia-utils lib32-nvidia-utils nvidia-settings opencl-nvidia lib32-opencl-nvidia egl-wayland blueman bluez dex xorg nano pipewire pavucontrol i3-wm sway swaybg kitty xdg-desktop-portal-wlr xfce4-panel dunst thunar gvfs udisks2 thunar-volman sddm network-manager-applet networkmanager mousepad base-devel git librewolf flatpak fastfetch gimp signal-desktop vlc
 
 cat<<"EOF"
 + systemctl enable bluetooth
