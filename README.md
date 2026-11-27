@@ -124,12 +124,6 @@ The gaming packages script has **Steam, Wine, Vulkan and NVIDIA drivers**.
 
 To install it:
 
-`su - [USERNAME]`
-
-ℹ️Replace `[USERNAME]` to put your user you just created.
-
-`cd NRPM-Linux`
-
 `sh gamingpackages.sh`
 
 ℹ️For non-NVIDIA computers:
