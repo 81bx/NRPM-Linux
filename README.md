@@ -44,15 +44,16 @@ Follow these steps on chroot:
 
 `sh autoinstall-without-gaming-and-other.sh`
 
-[Source (autoinstall-without-gaming-and-other.sh)](https://github.com/81bx/NRPM-Linux/blob/main/autoinstall-without-gaming-and-other.sh)
 
-[Source (autoinstall-no-nvidia-and-aur.sh)](https://github.com/81bx/NRPM-Linux/blob/main/autoinstall-no-nvidia-and-aur.sh)
-
-[Source (autoinstall-no-nvidia.sh)](https://github.com/81bx/NRPM-Linux/blob/main/autoinstall-no-nvidia.sh)
+[Source (autoinstall.sh)](https://github.com/81bx/NRPM-Linux/blob/main/autoinstall.sh)
 
 [Source (autoinstall-noaur.sh)](https://github.com/81bx/NRPM-Linux/blob/main/autoinstall-noaur.sh)
 
-[Source (autoinstall.sh)](https://github.com/81bx/NRPM-Linux/blob/main/autoinstall.sh)
+[Source (autoinstall-no-nvidia.sh)](https://github.com/81bx/NRPM-Linux/blob/main/autoinstall-no-nvidia.sh)
+
+[Source (autoinstall-no-nvidia-and-aur.sh)](https://github.com/81bx/NRPM-Linux/blob/main/autoinstall-no-nvidia-and-aur.sh)
+
+[Source (autoinstall-without-gaming-and-other.sh)](https://github.com/81bx/NRPM-Linux/blob/main/autoinstall-without-gaming-and-other.sh)
 
 ----------------------
 
